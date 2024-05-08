@@ -1,5 +1,5 @@
-API tested using postman
+## API tested using postman
 
-created files
-controller---> cloudVendorAPIService.java
+Created files     
+controller---> cloudVendorAPIService.java    
 model---->CloudVendor.java
